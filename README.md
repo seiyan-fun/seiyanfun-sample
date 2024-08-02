@@ -6,8 +6,11 @@ This repository contains typeScript sample codes for integration with seiyan.fun
 
 ## Tutorials
 
+Docs url: https://docs.seiyan.fun/integration-apisdk/
+
 - Creating and Minting Tokens
 - Minting and Burning Tokens
+- Smart Contract Information
 
 ## Prerequisites
 
